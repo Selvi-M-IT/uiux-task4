@@ -23,3 +23,4 @@ Responsive & Lightweight
  • Mobile-friendly structure
  • No JavaScript, no external libraries — pure HTML/CSS
  output
+ Image](https://github.com/user-attachments/assets/58df6519-d5b1-491c-9f26-033d4a9cda90)
